@@ -1,0 +1,8 @@
+i will be working on an Ecommerce wbesite named ShopaVerse
+
+The website is an online marketplace that brings together a wide range of
+shopping categories in one place including fashion, tech gadgets, and home appliances.
+
+Users can browse products and place orders directly from verified vendors. 
+The platform is designed to offer a simple, user-friendly shopping experience, 
+with features like category filtering, product search, cart management, and order tracking.
